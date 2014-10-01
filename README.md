@@ -1,4 +1,4 @@
 edison
 ======
 
-source, config and docs pertaining to intel edison projects.
+source, config and docs for intel edison projects.
